@@ -14,3 +14,4 @@ sudo ln -s "$REPO_PATH" /var/www/html
 sudo chmod -R 755 "$REPO_PATH"
 
 echo "Symlink created: $REPO_PATH -> /var/www/html"
+
